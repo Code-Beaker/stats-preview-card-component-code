@@ -78,7 +78,7 @@ main {
   border-radius: 0.5em;
   overflow: hidden;
   margin: 1rem;
-  max-height: 100%;
+  max-height: max-content;
   min-width: 300px;
   background-color: var(--dark-desat-blue);
   display: grid;
@@ -144,7 +144,7 @@ main {
 }
 
 /* For Desktop */
-@media (min-width: 768px) {
+@media (min-width: 320px) and (max-width: 480px) {
   main {
     grid-template-columns: 1fr 1fr;
     max-width: 1050px;
