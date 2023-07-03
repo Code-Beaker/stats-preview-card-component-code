@@ -113,7 +113,7 @@ main {
   line-height: normal;
   color: var(--white);
   font-size: 1.75rem;
-  margin: 10px auto;
+  margin: 20px auto;
 }
 
 .card__heading .violet {
@@ -164,10 +164,11 @@ main {
   }
 
   .card__heading {
-    margin: 1rem auto;
+    margin-bottom: 2rem;
   }
 
   .card__body {
+    margin-bottom: 5rem;
     text-align: left;
   }
 }
