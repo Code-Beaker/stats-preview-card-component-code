@@ -68,7 +68,7 @@ h6 {
 body {
   font-family: var(--font-body);
   display: grid;
-  height: 100vh;
+  min-height: 100vh;
   place-content: center;
   background: var(--very-dark-blue);
 }
