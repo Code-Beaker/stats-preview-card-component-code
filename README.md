@@ -80,5 +80,5 @@ I got help from the Frontend Mentor **Discord Community** in some stages.
 
 ## Links
 
-- Live Site URL:
+- Live Site URL: https://code-beaker.github.io/stats-preview-card-component-code/
 - GitHub Repository: https://github.com/Code-Beaker/stats-preview-card-component-code
