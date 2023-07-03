@@ -147,7 +147,7 @@ main {
 @media (min-width: 500px) {
   main {
     grid-template-columns: 1fr 1fr;
-    max-width: 1000px;
+    max-width: 1050px;
     grid-auto-flow: column;
   }
   .card__content {
