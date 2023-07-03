@@ -78,7 +78,7 @@ main {
   border-radius: 0.5em;
   overflow: hidden;
   margin: 1rem;
-  max-height: max-content;
+  max-height: fit-content;
   min-width: 300px;
   background-color: var(--dark-desat-blue);
   display: grid;
