@@ -155,6 +155,10 @@ main {
     text-align: left;
   }
 
+  .card__img {
+    grid-column: 2;
+  }
+
   .flex-group {
     flex-direction: row;
     width: 100%;
